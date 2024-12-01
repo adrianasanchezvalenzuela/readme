@@ -2,14 +2,13 @@
 ## **Integrantes**
 - Adriana Sánchez Valenzuela, 223220776
 - Samara Acosta Ibarra, 223203127
-- Hilary del Carmen Rangel Zambrano, 223210499
 
 ## **Puntaje por el que vamos**
 - 100% + 10 puntos extras
 
 ## **Uso de IA Generativa**
 - Herramientas usadas:
-  - ChatGPT para ayuda en la lógica del programa.
+  - ChatGPT para ayuda en la lógica del programa, y en la ayuda de creacion de varios metodos, en especial para conectarse a varios servidores.
 
 ## **Instrucciones de Ejecución**
 ### **Argumentos necesarios:**
@@ -27,6 +26,7 @@
     - `mandar:libros_descifrados`
 5. En el Cliente:
     - `compara:libros_descifrados`
+      
 
 ## **Dependencias del proyecto**
 1. Java JDK 17+.
